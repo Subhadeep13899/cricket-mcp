@@ -6,6 +6,7 @@ This project exposes two tools that can be called by an LLM:
 - Details of a live, recent or an upcoming cricket match between any two teams
 
 Usage steps:
+- Create an API key with RapidAPI's cricbuzz integration: https://rapidapi.com/cricketapilive/api/cricbuzz-cricket
 - Install all requirements (pip install -r requirements.txt)
 - Create the LLM MCP config file. A sample has been provided.
 - Start (or restart) Claude, or any LLM desktop client of your choice which has MCP support.
