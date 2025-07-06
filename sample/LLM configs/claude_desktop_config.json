@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "cricket": {
+      "command": "python",
+      "args": ["absolute_path_to_server_folder/src/sports.py"],
+      "env": {
+        "CRICKET_API_KEY": "your_cricket_api_key_here"
+      }
+    }
+  }
+}
