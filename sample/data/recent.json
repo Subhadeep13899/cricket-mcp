@@ -1,0 +1,3083 @@
+{
+  "typeMatches": [{
+    "matchType": "International",
+    "seriesMatches": [{
+      "seriesAdWrapper": {
+        "seriesId": 9809,
+        "seriesName": "Bangladesh tour of Sri Lanka, 2025",
+        "matches": [{
+          "matchInfo": {
+            "matchId": 118595,
+            "seriesId": 9809,
+            "seriesName": "Bangladesh tour of Sri Lanka, 2025",
+            "matchDesc": "1st ODI",
+            "matchFormat": "ODI",
+            "startDate": "1751446800000",
+            "endDate": "1751475600000",
+            "state": "Complete",
+            "status": "Sri Lanka won by 77 runs",
+            "team1": {
+              "teamId": 5,
+              "teamName": "Sri Lanka",
+              "teamSName": "SL",
+              "imageId": 172119
+            },
+            "team2": {
+              "teamId": 6,
+              "teamName": "Bangladesh",
+              "teamSName": "BAN",
+              "imageId": 172120
+            },
+            "venueInfo": {
+              "id": 15,
+              "ground": "R.Premadasa Stadium",
+              "city": "Colombo",
+              "timezone": "+05:30",
+              "latitude": "6.939966",
+              "longitude": "79.872222"
+            },
+            "currBatTeamId": 5,
+            "seriesStartDt": "1750118400000",
+            "seriesEndDt": "1752796800000",
+            "isTimeAnnounced": true,
+            "stateTitle": "SL Won",
+            "isFantasyEnabled": true
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 244,
+                "wickets": 10,
+                "overs": 49.2
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 167,
+                "wickets": 10,
+                "overs": 35.5
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 118604,
+            "seriesId": 9809,
+            "seriesName": "Bangladesh tour of Sri Lanka, 2025",
+            "matchDesc": "2nd ODI",
+            "matchFormat": "ODI",
+            "startDate": "1751706000000",
+            "endDate": "1751734800000",
+            "state": "Complete",
+            "status": "Bangladesh won by 16 runs",
+            "team1": {
+              "teamId": 6,
+              "teamName": "Bangladesh",
+              "teamSName": "BAN",
+              "imageId": 172120
+            },
+            "team2": {
+              "teamId": 5,
+              "teamName": "Sri Lanka",
+              "teamSName": "SL",
+              "imageId": 172119
+            },
+            "venueInfo": {
+              "id": 15,
+              "ground": "R.Premadasa Stadium",
+              "city": "Colombo",
+              "timezone": "+05:30",
+              "latitude": "6.939966",
+              "longitude": "79.872222"
+            },
+            "currBatTeamId": 6,
+            "seriesStartDt": "1750118400000",
+            "seriesEndDt": "1752796800000",
+            "isTimeAnnounced": true,
+            "stateTitle": "BAN Won",
+            "isFantasyEnabled": true
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 248,
+                "wickets": 10,
+                "overs": 45.5
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 232,
+                "wickets": 10,
+                "overs": 48.5
+              }
+            }
+          }
+        }]
+      }
+    }, {
+      "seriesAdWrapper": {
+        "seriesId": 9408,
+        "seriesName": "Australia tour of West Indies, 2025",
+        "matches": [{
+          "matchInfo": {
+            "matchId": 114582,
+            "seriesId": 9408,
+            "seriesName": "Australia tour of West Indies, 2025",
+            "matchDesc": "1st Test",
+            "matchFormat": "TEST",
+            "startDate": "1750860000000",
+            "endDate": "1751230800000",
+            "state": "Complete",
+            "status": "Australia won by 159 runs",
+            "team1": {
+              "teamId": 4,
+              "teamName": "Australia",
+              "teamSName": "AUS",
+              "imageId": 172117
+            },
+            "team2": {
+              "teamId": 10,
+              "teamName": "West Indies",
+              "teamSName": "WI",
+              "imageId": 172124
+            },
+            "venueInfo": {
+              "id": 55,
+              "ground": "Kensington Oval",
+              "city": "Bridgetown, Barbados",
+              "timezone": "-04:00",
+              "latitude": "13.105021",
+              "longitude": "-59.62257"
+            },
+            "currBatTeamId": 4,
+            "seriesStartDt": "1750809600000",
+            "seriesEndDt": "1753833600000",
+            "isTimeAnnounced": true,
+            "stateTitle": "AUS Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 180,
+                "wickets": 10,
+                "overs": 56.5
+              },
+              "inngs2": {
+                "inningsId": 3,
+                "runs": 310,
+                "wickets": 10,
+                "overs": 81.5
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 190,
+                "wickets": 10,
+                "overs": 63.2
+              },
+              "inngs2": {
+                "inningsId": 4,
+                "runs": 141,
+                "wickets": 10,
+                "overs": 33.4
+              }
+            }
+          }
+        }]
+      }
+    }, {
+      "seriesAdWrapper": {
+        "seriesId": 9578,
+        "seriesName": "South Africa tour of Zimbabwe, 2025",
+        "matches": [{
+          "matchInfo": {
+            "matchId": 116831,
+            "seriesId": 9578,
+            "seriesName": "South Africa tour of Zimbabwe, 2025",
+            "matchDesc": "1st Test",
+            "matchFormat": "TEST",
+            "startDate": "1751097600000",
+            "endDate": "1751468400000",
+            "state": "Complete",
+            "status": "South Africa won by 328 runs",
+            "team1": {
+              "teamId": 11,
+              "teamName": "South Africa",
+              "teamSName": "RSA",
+              "imageId": 172126
+            },
+            "team2": {
+              "teamId": 12,
+              "teamName": "Zimbabwe",
+              "teamSName": "ZIM",
+              "imageId": 172127
+            },
+            "venueInfo": {
+              "id": 70,
+              "ground": "Queens Sports Club",
+              "city": "Bulawayo",
+              "timezone": "+02:00",
+              "latitude": "-20.145151",
+              "longitude": "28.588901"
+            },
+            "currBatTeamId": 11,
+            "seriesStartDt": "1751068800000",
+            "seriesEndDt": "1752278400000",
+            "isTimeAnnounced": true,
+            "stateTitle": "RSA Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 418,
+                "wickets": 9,
+                "overs": 89.6
+              },
+              "inngs2": {
+                "inningsId": 3,
+                "runs": 369,
+                "wickets": 10,
+                "overs": 82.5
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 251,
+                "wickets": 10,
+                "overs": 67.4
+              },
+              "inngs2": {
+                "inningsId": 4,
+                "runs": 208,
+                "wickets": 10,
+                "overs": 66.2
+              }
+            }
+          }
+        }]
+      }
+    }, {
+      "seriesAdWrapper": {
+        "seriesId": 10278,
+        "seriesName": "Quadrangular T20I Series in Malawi 2025",
+        "matches": [{
+          "matchInfo": {
+            "matchId": 123001,
+            "seriesId": 10278,
+            "seriesName": "Quadrangular T20I Series in Malawi 2025",
+            "matchDesc": "3rd Match",
+            "matchFormat": "T20",
+            "startDate": "1751787000000",
+            "endDate": "1751799600000",
+            "state": "Complete",
+            "status": "Match starts at Jul 06, 07:30 GMT",
+            "team1": {
+              "teamId": 543,
+              "teamName": "Bahrain",
+              "teamSName": "BHR",
+              "imageId": 172594
+            },
+            "team2": {
+              "teamId": 77,
+              "teamName": "Germany",
+              "teamSName": "GER",
+              "imageId": 172171
+            },
+            "venueInfo": {
+              "id": 1437905,
+              "ground": "TCA Oval",
+              "city": "Blantyre",
+              "timezone": "+02:00",
+              "latitude": "-15.810813",
+              "longitude": "34.9982381"
+            },
+            "seriesStartDt": "1751673600000",
+            "seriesEndDt": "1752537600000",
+            "stateTitle": "Upcoming Match"
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 122995,
+            "seriesId": 10278,
+            "seriesName": "Quadrangular T20I Series in Malawi 2025",
+            "matchDesc": "2nd Match",
+            "matchFormat": "T20",
+            "startDate": "1751802300000",
+            "endDate": "1751814900000",
+            "state": "Complete",
+            "status": "Tanzania won by 72 runs",
+            "team1": {
+              "teamId": 535,
+              "teamName": "Tanzania",
+              "teamSName": "TAN",
+              "imageId": 172586
+            },
+            "team2": {
+              "teamId": 553,
+              "teamName": "Malawi",
+              "teamSName": "MWI",
+              "imageId": 172605
+            },
+            "venueInfo": {
+              "id": 1437905,
+              "ground": "TCA Oval",
+              "city": "Blantyre",
+              "timezone": "+02:00",
+              "latitude": "-15.810813",
+              "longitude": "34.9982381"
+            },
+            "currBatTeamId": 535,
+            "seriesStartDt": "1751673600000",
+            "seriesEndDt": "1752537600000",
+            "stateTitle": "Complete"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 192,
+                "wickets": 4,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 120,
+                "wickets": 7,
+                "overs": 19.6
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 122979,
+            "seriesId": 10278,
+            "seriesName": "Quadrangular T20I Series in Malawi 2025",
+            "matchDesc": "1st Match",
+            "matchFormat": "T20",
+            "startDate": "1751715900000",
+            "endDate": "1751728500000",
+            "state": "Complete",
+            "status": "Germany won by 5 wkts",
+            "team1": {
+              "teamId": 553,
+              "teamName": "Malawi",
+              "teamSName": "MWI",
+              "imageId": 172605
+            },
+            "team2": {
+              "teamId": 77,
+              "teamName": "Germany",
+              "teamSName": "GER",
+              "imageId": 172171
+            },
+            "venueInfo": {
+              "id": 1437905,
+              "ground": "TCA Oval",
+              "city": "Blantyre",
+              "timezone": "+02:00",
+              "latitude": "-15.810813",
+              "longitude": "34.9982381"
+            },
+            "currBatTeamId": 77,
+            "seriesStartDt": "1751673600000",
+            "seriesEndDt": "1752537600000",
+            "stateTitle": "GER Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 144,
+                "wickets": 8,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 145,
+                "wickets": 5,
+                "overs": 16.4
+              }
+            }
+          }
+        }]
+      }
+    }, {
+      "ad": {
+        "name": "native_matches",
+        "layout": "native_large",
+        "position": 4
+      }
+    }, {
+      "seriesAdWrapper": {
+        "seriesId": 10157,
+        "seriesName": "Continental Cup, 2025",
+        "matches": [{
+          "matchInfo": {
+            "matchId": 122918,
+            "seriesId": 10157,
+            "seriesName": "Continental Cup, 2025",
+            "matchDesc": "5th Place Play-off",
+            "matchFormat": "T20",
+            "startDate": "1751203800000",
+            "endDate": "1751216400000",
+            "state": "Complete",
+            "status": "Hungary won by 52 runs",
+            "team1": {
+              "teamId": 550,
+              "teamName": "Hungary",
+              "teamSName": "HUN",
+              "imageId": 172602
+            },
+            "team2": {
+              "teamId": 539,
+              "teamName": "France",
+              "teamSName": "FRA",
+              "imageId": 172590
+            },
+            "venueInfo": {
+              "id": 1696,
+              "ground": "Moara Vlasiei Cricket Ground",
+              "city": "Ilfov County",
+              "timezone": "+03:00",
+              "latitude": "44.309448",
+              "longitude": "26.017920"
+            },
+            "currBatTeamId": 550,
+            "seriesStartDt": "1750896000000",
+            "seriesEndDt": "1751328000000",
+            "isTimeAnnounced": true,
+            "stateTitle": "HUN Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 149,
+                "wickets": 10,
+                "overs": 19.2
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 97,
+                "wickets": 10,
+                "overs": 15.3
+              }
+            }
+          }
+        }]
+      }
+    }, {
+      "seriesAdWrapper": {
+        "seriesId": 10168,
+        "seriesName": "Indonesia T20I Tri-Series 2025",
+        "matches": [{
+          "matchInfo": {
+            "matchId": 122247,
+            "seriesId": 10168,
+            "seriesName": "Indonesia T20I Tri-Series 2025",
+            "matchDesc": "1st Match",
+            "matchFormat": "T20",
+            "startDate": "1751765400000",
+            "endDate": "1751778000000",
+            "state": "Complete",
+            "status": "Philippines won by 53 runs",
+            "team1": {
+              "teamId": 538,
+              "teamName": "Philippines",
+              "teamSName": "PHI",
+              "imageId": 172589
+            },
+            "team2": {
+              "teamId": 566,
+              "teamName": "Indonesia",
+              "teamSName": "IDN",
+              "imageId": 172618
+            },
+            "venueInfo": {
+              "id": 1179,
+              "ground": "Udayana Cricket Ground",
+              "city": "Bali",
+              "timezone": "+07:00",
+              "latitude": "8.409518",
+              "longitude": "115.188919"
+            },
+            "currBatTeamId": 538,
+            "seriesStartDt": "1751760000000",
+            "seriesEndDt": "1752537600000",
+            "stateTitle": "PHI Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 183,
+                "wickets": 6,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 130,
+                "wickets": 8,
+                "overs": 19.6
+              }
+            }
+          }
+        }]
+      }
+    }, {
+      "seriesAdWrapper": {
+        "seriesId": 10108,
+        "seriesName": "ICC Mens T20 World Cup Europe Qualifier 2025",
+        "matches": [{
+          "matchInfo": {
+            "matchId": 121703,
+            "seriesId": 10108,
+            "seriesName": "ICC Mens T20 World Cup Europe Qualifier 2025",
+            "matchDesc": "3rd Match",
+            "matchFormat": "T20",
+            "startDate": "1751792400000",
+            "endDate": "1751805000000",
+            "state": "Complete",
+            "status": "Match abandoned without a ball bowled (No toss)",
+            "team1": {
+              "teamId": 533,
+              "teamName": "Guernsey",
+              "teamSName": "GGY",
+              "imageId": 172584
+            },
+            "team2": {
+              "teamId": 23,
+              "teamName": "Scotland",
+              "teamSName": "SCO",
+              "imageId": 172137
+            },
+            "venueInfo": {
+              "id": 285,
+              "ground": "Sportpark Westvliet",
+              "city": "The Hague",
+              "timezone": "+02:00",
+              "latitude": "52.068650",
+              "longitude": "4.374474"
+            },
+            "seriesStartDt": "1751673600000",
+            "seriesEndDt": "1752364800000",
+            "isTimeAnnounced": true,
+            "stateTitle": "Abandon"
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 121697,
+            "seriesId": 10108,
+            "seriesName": "ICC Mens T20 World Cup Europe Qualifier 2025",
+            "matchDesc": "2nd Match",
+            "matchFormat": "T20",
+            "startDate": "1751724000000",
+            "endDate": "1751736600000",
+            "state": "Complete",
+            "status": "Italy won by 7 wkts",
+            "team1": {
+              "teamId": 533,
+              "teamName": "Guernsey",
+              "teamSName": "GGY",
+              "imageId": 172584
+            },
+            "team2": {
+              "teamId": 527,
+              "teamName": "Italy",
+              "teamSName": "ITA",
+              "imageId": 172577
+            },
+            "venueInfo": {
+              "id": 285,
+              "ground": "Sportpark Westvliet",
+              "city": "The Hague",
+              "timezone": "+02:00",
+              "latitude": "52.068650",
+              "longitude": "4.374474"
+            },
+            "currBatTeamId": 527,
+            "seriesStartDt": "1751673600000",
+            "seriesEndDt": "1752364800000",
+            "isTimeAnnounced": true,
+            "stateTitle": "ITA Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 122,
+                "wickets": 9,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 127,
+                "wickets": 3,
+                "overs": 13.6
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 121692,
+            "seriesId": 10108,
+            "seriesName": "ICC Mens T20 World Cup Europe Qualifier 2025",
+            "matchDesc": "1st Match",
+            "matchFormat": "T20",
+            "startDate": "1751706000000",
+            "endDate": "1751718600000",
+            "state": "Complete",
+            "status": "Netherlands won by 7 wkts",
+            "team1": {
+              "teamId": 303,
+              "teamName": "Jersey",
+              "teamSName": "JER",
+              "imageId": 172352
+            },
+            "team2": {
+              "teamId": 24,
+              "teamName": "Netherlands",
+              "teamSName": "NED",
+              "imageId": 172138
+            },
+            "venueInfo": {
+              "id": 285,
+              "ground": "Sportpark Westvliet",
+              "city": "The Hague",
+              "timezone": "+02:00",
+              "latitude": "52.068650",
+              "longitude": "4.374474"
+            },
+            "currBatTeamId": 24,
+            "seriesStartDt": "1751673600000",
+            "seriesEndDt": "1752364800000",
+            "isTimeAnnounced": true,
+            "stateTitle": "NED Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 160,
+                "wickets": 7,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 161,
+                "wickets": 3,
+                "overs": 19.3
+              }
+            }
+          }
+        }]
+      }
+    }]
+  }, {
+    "matchType": "League",
+    "seriesMatches": [{
+      "seriesAdWrapper": {
+        "seriesId": 9614,
+        "seriesName": "Major League Cricket 2025",
+        "matches": [{
+          "matchInfo": {
+            "matchId": 117227,
+            "seriesId": 9614,
+            "seriesName": "Major League Cricket 2025",
+            "matchDesc": "27th Match",
+            "matchFormat": "T20",
+            "startDate": "1751742000000",
+            "endDate": "1751754600000",
+            "state": "Complete",
+            "status": "MI New York won by 6 runs",
+            "team1": {
+              "teamId": 1573,
+              "teamName": "MI New York",
+              "teamSName": "MINY",
+              "imageId": 334729
+            },
+            "team2": {
+              "teamId": 1570,
+              "teamName": "Los Angeles Knight Riders",
+              "teamSName": "LAKR",
+              "imageId": 333484
+            },
+            "venueInfo": {
+              "id": 270,
+              "ground": "Central Broward Regional Park Stadium Turf Ground",
+              "city": "Lauderhill, Florida",
+              "timezone": "-04:00",
+              "latitude": "26.149670",
+              "longitude": "-80.212196"
+            },
+            "currBatTeamId": 1573,
+            "seriesStartDt": "1749686400000",
+            "seriesEndDt": "1752537600000",
+            "isTimeAnnounced": true,
+            "stateTitle": "Complete",
+            "isFantasyEnabled": true
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 142,
+                "wickets": 9,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 136,
+                "wickets": 4,
+                "overs": 19.6
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 117236,
+            "seriesId": 9614,
+            "seriesName": "Major League Cricket 2025",
+            "matchDesc": "28th Match",
+            "matchFormat": "T20",
+            "startDate": "1751756400000",
+            "endDate": "1751769000000",
+            "state": "Complete",
+            "status": "Texas Super Kings won by 51 runs",
+            "team1": {
+              "teamId": 1577,
+              "teamName": "Texas Super Kings",
+              "teamSName": "TSK",
+              "imageId": 333486
+            },
+            "team2": {
+              "teamId": 1594,
+              "teamName": "Seattle Orcas",
+              "teamSName": "SOR",
+              "imageId": 333489
+            },
+            "venueInfo": {
+              "id": 270,
+              "ground": "Central Broward Regional Park Stadium Turf Ground",
+              "city": "Lauderhill, Florida",
+              "timezone": "-04:00",
+              "latitude": "26.149670",
+              "longitude": "-80.212196"
+            },
+            "currBatTeamId": 1577,
+            "seriesStartDt": "1749686400000",
+            "seriesEndDt": "1752537600000",
+            "isTimeAnnounced": true,
+            "stateTitle": "Complete",
+            "isFantasyEnabled": true
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 188,
+                "wickets": 4,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 137,
+                "wickets": 10,
+                "overs": 18.4
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 117218,
+            "seriesId": 9614,
+            "seriesName": "Major League Cricket 2025",
+            "matchDesc": "25th Match",
+            "matchFormat": "T20",
+            "startDate": "1751655600000",
+            "endDate": "1751668200000",
+            "state": "Complete",
+            "status": "San Francisco Unicorns won by 1 run",
+            "team1": {
+              "teamId": 1584,
+              "teamName": "San Francisco Unicorns",
+              "teamSName": "SFU",
+              "imageId": 333487
+            },
+            "team2": {
+              "teamId": 1577,
+              "teamName": "Texas Super Kings",
+              "teamSName": "TSK",
+              "imageId": 333486
+            },
+            "venueInfo": {
+              "id": 270,
+              "ground": "Central Broward Regional Park Stadium Turf Ground",
+              "city": "Lauderhill, Florida",
+              "timezone": "-04:00",
+              "latitude": "26.149670",
+              "longitude": "-80.212196"
+            },
+            "currBatTeamId": 1584,
+            "seriesStartDt": "1749686400000",
+            "seriesEndDt": "1752537600000",
+            "isTimeAnnounced": true,
+            "stateTitle": "SFU Won",
+            "isFantasyEnabled": true
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 148,
+                "wickets": 6,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 147,
+                "wickets": 7,
+                "overs": 19.6
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 117215,
+            "seriesId": 9614,
+            "seriesName": "Major League Cricket 2025",
+            "matchDesc": "24th Match",
+            "matchFormat": "T20",
+            "startDate": "1751583600000",
+            "endDate": "1751596200000",
+            "state": "Complete",
+            "status": "MI New York won by 8 wkts",
+            "team1": {
+              "teamId": 1570,
+              "teamName": "Los Angeles Knight Riders",
+              "teamSName": "LAKR",
+              "imageId": 333484
+            },
+            "team2": {
+              "teamId": 1573,
+              "teamName": "MI New York",
+              "teamSName": "MINY",
+              "imageId": 334729
+            },
+            "venueInfo": {
+              "id": 270,
+              "ground": "Central Broward Regional Park Stadium Turf Ground",
+              "city": "Lauderhill, Florida",
+              "timezone": "-04:00",
+              "latitude": "26.149670",
+              "longitude": "-80.212196"
+            },
+            "currBatTeamId": 1573,
+            "seriesStartDt": "1749686400000",
+            "seriesEndDt": "1752537600000",
+            "isTimeAnnounced": true,
+            "stateTitle": "MINY Won",
+            "isFantasyEnabled": true
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 154,
+                "wickets": 8,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 155,
+                "wickets": 2,
+                "overs": 17.5
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 117206,
+            "seriesId": 9614,
+            "seriesName": "Major League Cricket 2025",
+            "matchDesc": "22nd Match",
+            "matchFormat": "T20",
+            "startDate": "1751410800000",
+            "endDate": "1751423400000",
+            "state": "Complete",
+            "status": "Seattle Orcas won by 4 wkts",
+            "team1": {
+              "teamId": 1584,
+              "teamName": "San Francisco Unicorns",
+              "teamSName": "SFU",
+              "imageId": 333487
+            },
+            "team2": {
+              "teamId": 1594,
+              "teamName": "Seattle Orcas",
+              "teamSName": "SOR",
+              "imageId": 333489
+            },
+            "venueInfo": {
+              "id": 270,
+              "ground": "Central Broward Regional Park Stadium Turf Ground",
+              "city": "Lauderhill, Florida",
+              "timezone": "-04:00",
+              "latitude": "26.149670",
+              "longitude": "-80.212196"
+            },
+            "currBatTeamId": 1594,
+            "seriesStartDt": "1749686400000",
+            "seriesEndDt": "1752537600000",
+            "isTimeAnnounced": true,
+            "stateTitle": "SOR Won",
+            "isFantasyEnabled": true
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 168,
+                "wickets": 5,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 169,
+                "wickets": 6,
+                "overs": 19.3
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 117209,
+            "seriesId": 9614,
+            "seriesName": "Major League Cricket 2025",
+            "matchDesc": "23rd Match",
+            "matchFormat": "T20",
+            "startDate": "1751497200000",
+            "endDate": "1751509800000",
+            "state": "Complete",
+            "status": "Texas Super Kings won by 43 runs - 5 overs game due to rain",
+            "team1": {
+              "teamId": 1577,
+              "teamName": "Texas Super Kings",
+              "teamSName": "TSK",
+              "imageId": 333486
+            },
+            "team2": {
+              "teamId": 1591,
+              "teamName": "Washington Freedom",
+              "teamSName": "WAF",
+              "imageId": 333488
+            },
+            "venueInfo": {
+              "id": 270,
+              "ground": "Central Broward Regional Park Stadium Turf Ground",
+              "city": "Lauderhill, Florida",
+              "timezone": "-04:00",
+              "latitude": "26.149670",
+              "longitude": "-80.212196"
+            },
+            "currBatTeamId": 1577,
+            "seriesStartDt": "1749686400000",
+            "seriesEndDt": "1752537600000",
+            "isTimeAnnounced": true,
+            "stateTitle": "TSK Won",
+            "isFantasyEnabled": true
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 87,
+                "wickets": 2,
+                "overs": 4.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 44,
+                "wickets": 4,
+                "overs": 4.6
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 117224,
+            "seriesId": 9614,
+            "seriesName": "Major League Cricket 2025",
+            "matchDesc": "26th Match",
+            "matchFormat": "T20",
+            "startDate": "1751670000000",
+            "endDate": "1751682600000",
+            "state": "Complete",
+            "status": "Washington Freedom won by 8 wkts",
+            "team1": {
+              "teamId": 1594,
+              "teamName": "Seattle Orcas",
+              "teamSName": "SOR",
+              "imageId": 333489
+            },
+            "team2": {
+              "teamId": 1591,
+              "teamName": "Washington Freedom",
+              "teamSName": "WAF",
+              "imageId": 333488
+            },
+            "venueInfo": {
+              "id": 270,
+              "ground": "Central Broward Regional Park Stadium Turf Ground",
+              "city": "Lauderhill, Florida",
+              "timezone": "-04:00",
+              "latitude": "26.149670",
+              "longitude": "-80.212196"
+            },
+            "currBatTeamId": 1591,
+            "seriesStartDt": "1749686400000",
+            "seriesEndDt": "1752537600000",
+            "isTimeAnnounced": true,
+            "stateTitle": "WAF Won",
+            "isFantasyEnabled": true
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 82,
+                "wickets": 10,
+                "overs": 17.4
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 86,
+                "wickets": 2,
+                "overs": 9.2
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 117200,
+            "seriesId": 9614,
+            "seriesName": "Major League Cricket 2025",
+            "matchDesc": "21st Match",
+            "matchFormat": "T20",
+            "startDate": "1751241600000",
+            "endDate": "1751254200000",
+            "state": "Complete",
+            "status": "Texas Super Kings won by 39 runs",
+            "team1": {
+              "teamId": 1577,
+              "teamName": "Texas Super Kings",
+              "teamSName": "TSK",
+              "imageId": 333486
+            },
+            "team2": {
+              "teamId": 1573,
+              "teamName": "MI New York",
+              "teamSName": "MINY",
+              "imageId": 334729
+            },
+            "venueInfo": {
+              "id": 1668,
+              "ground": "Grand Prairie Stadium",
+              "city": "Dallas",
+              "timezone": "-05:00",
+              "latitude": "32.67942",
+              "longitude": "-97.028338"
+            },
+            "currBatTeamId": 1577,
+            "seriesStartDt": "1749686400000",
+            "seriesEndDt": "1752537600000",
+            "isTimeAnnounced": true,
+            "stateTitle": "TSK Won",
+            "isFantasyEnabled": true
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 223,
+                "wickets": 4,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 184,
+                "wickets": 9,
+                "overs": 19.6
+              }
+            }
+          }
+        }]
+      }
+    }, {
+      "seriesAdWrapper": {
+        "seriesId": 9257,
+        "seriesName": "T20 Blast 2025",
+        "matches": [{
+          "matchInfo": {
+            "matchId": 110789,
+            "seriesId": 9257,
+            "seriesName": "T20 Blast 2025",
+            "matchDesc": "North Group",
+            "matchFormat": "T20",
+            "startDate": "1751724000000",
+            "endDate": "1751736600000",
+            "state": "Complete",
+            "status": "Lancashire won by 42 runs",
+            "team1": {
+              "teamId": 143,
+              "teamName": "Lancashire",
+              "teamSName": "LANCS",
+              "imageId": 172210
+            },
+            "team2": {
+              "teamId": 144,
+              "teamName": "Derbyshire",
+              "teamSName": "DERBY",
+              "imageId": 172211
+            },
+            "venueInfo": {
+              "id": 65,
+              "ground": "Emirates Old Trafford",
+              "city": "Manchester",
+              "timezone": "+01:00",
+              "latitude": "53.463066",
+              "longitude": "-2.291301"
+            },
+            "currBatTeamId": 143,
+            "seriesStartDt": "1748476800000",
+            "seriesEndDt": "1757894400000",
+            "isTimeAnnounced": true,
+            "stateTitle": "LANCS Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 178,
+                "wickets": 6,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 136,
+                "wickets": 6,
+                "overs": 19.6
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 110765,
+            "seriesId": 9257,
+            "seriesName": "T20 Blast 2025",
+            "matchDesc": "North Group",
+            "matchFormat": "T20",
+            "startDate": "1751650200000",
+            "endDate": "1751662800000",
+            "state": "Complete",
+            "status": "Warwickshire won by 6 wkts",
+            "team1": {
+              "teamId": 145,
+              "teamName": "Leicestershire",
+              "teamSName": "LEIC",
+              "imageId": 172212
+            },
+            "team2": {
+              "teamId": 140,
+              "teamName": "Warwickshire",
+              "teamSName": "WARKS",
+              "imageId": 172207
+            },
+            "venueInfo": {
+              "id": 222,
+              "ground": "Grace Road",
+              "city": "Leicester",
+              "timezone": "+01:00",
+              "latitude": "52.607861",
+              "longitude": "-1.142709"
+            },
+            "currBatTeamId": 140,
+            "seriesStartDt": "1748476800000",
+            "seriesEndDt": "1757894400000",
+            "isTimeAnnounced": true,
+            "stateTitle": "WARKS Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 154,
+                "wickets": 10,
+                "overs": 19.3
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 158,
+                "wickets": 4,
+                "overs": 18.2
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 110793,
+            "seriesId": 9257,
+            "seriesName": "T20 Blast 2025",
+            "matchDesc": "South Group",
+            "matchFormat": "T20",
+            "startDate": "1751738400000",
+            "endDate": "1751751000000",
+            "state": "Complete",
+            "status": "Hampshire won by 62 runs",
+            "team1": {
+              "teamId": 153,
+              "teamName": "Hampshire",
+              "teamSName": "HAM",
+              "imageId": 172220
+            },
+            "team2": {
+              "teamId": 41,
+              "teamName": "Sussex",
+              "teamSName": "SUS",
+              "imageId": 172148
+            },
+            "venueInfo": {
+              "id": 292,
+              "ground": "County Ground",
+              "city": "Hove",
+              "timezone": "+01:00",
+              "latitude": "50.830995",
+              "longitude": "-0.163522"
+            },
+            "currBatTeamId": 153,
+            "seriesStartDt": "1748476800000",
+            "seriesEndDt": "1757894400000",
+            "isTimeAnnounced": true,
+            "stateTitle": "HAM Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 196,
+                "wickets": 8,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 134,
+                "wickets": 10,
+                "overs": 16.5
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 110761,
+            "seriesId": 9257,
+            "seriesName": "T20 Blast 2025",
+            "matchDesc": "South Group",
+            "matchFormat": "T20",
+            "startDate": "1751650200000",
+            "endDate": "1751662800000",
+            "state": "Complete",
+            "status": "Sussex won by 34 runs",
+            "team1": {
+              "teamId": 41,
+              "teamName": "Sussex",
+              "teamSName": "SUS",
+              "imageId": 172148
+            },
+            "team2": {
+              "teamId": 150,
+              "teamName": "Kent",
+              "teamSName": "KENT",
+              "imageId": 172217
+            },
+            "venueInfo": {
+              "id": 67,
+              "ground": "St Lawrence Ground",
+              "city": "Canterbury",
+              "timezone": "+01:00",
+              "latitude": "51.267447",
+              "longitude": "1.091621"
+            },
+            "currBatTeamId": 41,
+            "seriesStartDt": "1748476800000",
+            "seriesEndDt": "1757894400000",
+            "isTimeAnnounced": true,
+            "stateTitle": "SUS Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 195,
+                "wickets": 9,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 161,
+                "wickets": 10,
+                "overs": 19.4
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 110753,
+            "seriesId": 9257,
+            "seriesName": "T20 Blast 2025",
+            "matchDesc": "South Group",
+            "matchFormat": "T20",
+            "startDate": "1751652000000",
+            "endDate": "1751664600000",
+            "state": "Complete",
+            "status": "Gloucestershire won by 13 runs",
+            "team1": {
+              "teamId": 151,
+              "teamName": "Gloucestershire",
+              "teamSName": "GLOUCS",
+              "imageId": 172218
+            },
+            "team2": {
+              "teamId": 152,
+              "teamName": "Essex",
+              "teamSName": "ESS",
+              "imageId": 172219
+            },
+            "venueInfo": {
+              "id": 118,
+              "ground": "County Ground",
+              "city": "Chelmsford",
+              "timezone": "+01:00",
+              "latitude": "51.731580",
+              "longitude": "0.469004"
+            },
+            "currBatTeamId": 151,
+            "seriesStartDt": "1748476800000",
+            "seriesEndDt": "1757894400000",
+            "isTimeAnnounced": true,
+            "stateTitle": "GLOUCS Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 184,
+                "wickets": 7,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 171,
+                "wickets": 10,
+                "overs": 19.3
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 110781,
+            "seriesId": 9257,
+            "seriesName": "T20 Blast 2025",
+            "matchDesc": "North Group",
+            "matchFormat": "T20",
+            "startDate": "1751650200000",
+            "endDate": "1751662800000",
+            "state": "Complete",
+            "status": "Yorkshire won by 41 runs",
+            "team1": {
+              "teamId": 146,
+              "teamName": "Yorkshire",
+              "teamSName": "YORKS",
+              "imageId": 172213
+            },
+            "team2": {
+              "teamId": 147,
+              "teamName": "Worcestershire",
+              "teamSName": "WORCS",
+              "imageId": 172214
+            },
+            "venueInfo": {
+              "id": 66,
+              "ground": "Headingley",
+              "city": "Leeds",
+              "timezone": "+01:00",
+              "latitude": "53.817622",
+              "longitude": "-1.58211"
+            },
+            "currBatTeamId": 146,
+            "seriesStartDt": "1748476800000",
+            "seriesEndDt": "1757894400000",
+            "isTimeAnnounced": true,
+            "stateTitle": "YORKS Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 233,
+                "wickets": 6,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 192,
+                "wickets": 10,
+                "overs": 19.1
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 110777,
+            "seriesId": 9257,
+            "seriesName": "T20 Blast 2025",
+            "matchDesc": "South Group",
+            "matchFormat": "T20",
+            "startDate": "1751650200000",
+            "endDate": "1751662800000",
+            "state": "Complete",
+            "status": "Glamorgan won by 2 runs",
+            "team1": {
+              "teamId": 149,
+              "teamName": "Glamorgan",
+              "teamSName": "GLAM",
+              "imageId": 172216
+            },
+            "team2": {
+              "teamId": 119,
+              "teamName": "Somerset",
+              "teamSName": "SOM",
+              "imageId": 172199
+            },
+            "venueInfo": {
+              "id": 223,
+              "ground": "The Cooper Associates County Ground",
+              "city": "Taunton",
+              "timezone": "+01:00",
+              "latitude": "51.018913",
+              "longitude": "3.100894"
+            },
+            "currBatTeamId": 149,
+            "seriesStartDt": "1748476800000",
+            "seriesEndDt": "1757894400000",
+            "isTimeAnnounced": true,
+            "stateTitle": "GLAM Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 176,
+                "wickets": 7,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 174,
+                "wickets": 9,
+                "overs": 19.6
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 110769,
+            "seriesId": 9257,
+            "seriesName": "T20 Blast 2025",
+            "matchDesc": "North Group",
+            "matchFormat": "T20",
+            "startDate": "1751650200000",
+            "endDate": "1751662800000",
+            "state": "Complete",
+            "status": "Lancashire won by 5 wkts",
+            "team1": {
+              "teamId": 142,
+              "teamName": "Northamptonshire",
+              "teamSName": "NHNTS",
+              "imageId": 172209
+            },
+            "team2": {
+              "teamId": 143,
+              "teamName": "Lancashire",
+              "teamSName": "LANCS",
+              "imageId": 172210
+            },
+            "venueInfo": {
+              "id": 119,
+              "ground": "County Ground",
+              "city": "Northampton",
+              "timezone": "+01:00",
+              "latitude": "52.248160",
+              "longitude": "-0.871060"
+            },
+            "currBatTeamId": 143,
+            "seriesStartDt": "1748476800000",
+            "seriesEndDt": "1757894400000",
+            "isTimeAnnounced": true,
+            "stateTitle": "LANCS Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 177,
+                "wickets": 10,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 181,
+                "wickets": 5,
+                "overs": 19.3
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 110745,
+            "seriesId": 9257,
+            "seriesName": "T20 Blast 2025",
+            "matchDesc": "North Group",
+            "matchFormat": "T20",
+            "startDate": "1751650200000",
+            "endDate": "1751662800000",
+            "state": "Complete",
+            "status": "Durham won by 49 runs",
+            "team1": {
+              "teamId": 141,
+              "teamName": "Durham",
+              "teamSName": "DUR",
+              "imageId": 172208
+            },
+            "team2": {
+              "teamId": 139,
+              "teamName": "Nottinghamshire",
+              "teamSName": "NOTTS",
+              "imageId": 172206
+            },
+            "venueInfo": {
+              "id": 60,
+              "ground": "Riverside Ground",
+              "city": "Chester-le-Street",
+              "timezone": "+01:00",
+              "latitude": "54.849531",
+              "longitude": "-1.56103"
+            },
+            "currBatTeamId": 141,
+            "seriesStartDt": "1748476800000",
+            "seriesEndDt": "1757894400000",
+            "isTimeAnnounced": true,
+            "stateTitle": "DUR Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 231,
+                "wickets": 5,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 182,
+                "wickets": 10,
+                "overs": 15.4
+              }
+            }
+          }
+        }]
+      }
+    }, {
+      "seriesAdWrapper": {
+        "seriesId": 9866,
+        "seriesName": "Tamil Nadu Premier League 2025",
+        "matches": [{
+          "matchInfo": {
+            "matchId": 119267,
+            "seriesId": 9866,
+            "seriesName": "Tamil Nadu Premier League 2025",
+            "matchDesc": "Eliminator",
+            "matchFormat": "T20",
+            "startDate": "1751463900000",
+            "endDate": "1751476500000",
+            "state": "Complete",
+            "status": "Dindigul Dragons won by 6 wkts",
+            "team1": {
+              "teamId": 410,
+              "teamName": "Trichy Grand Cholas",
+              "teamSName": "Trichy",
+              "imageId": 172460
+            },
+            "team2": {
+              "teamId": 371,
+              "teamName": "Dindigul Dragons",
+              "teamSName": "DGD",
+              "imageId": 172424
+            },
+            "venueInfo": {
+              "id": 405,
+              "ground": "NPR College Ground",
+              "city": "Dindigul",
+              "timezone": "+05:30",
+              "latitude": "10.367312",
+              "longitude": "77.980291"
+            },
+            "currBatTeamId": 371,
+            "seriesStartDt": "1749081600000",
+            "seriesEndDt": "1751932800000",
+            "isTimeAnnounced": true,
+            "stateTitle": "DGD Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 140,
+                "wickets": 9,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 143,
+                "wickets": 4,
+                "overs": 16.4
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 119240,
+            "seriesId": 9866,
+            "seriesName": "Tamil Nadu Premier League 2025",
+            "matchDesc": "27th Match",
+            "matchFormat": "T20",
+            "startDate": "1751190300000",
+            "endDate": "1751202900000",
+            "state": "Complete",
+            "status": "IDream Tiruppur Tamizhans won by 69 runs",
+            "team1": {
+              "teamId": 861,
+              "teamName": "IDream Tiruppur Tamizhans",
+              "teamSName": "ITT",
+              "imageId": 206916
+            },
+            "team2": {
+              "teamId": 866,
+              "teamName": "Nellai Royal Kings",
+              "teamSName": "NRK",
+              "imageId": 206917
+            },
+            "venueInfo": {
+              "id": 405,
+              "ground": "NPR College Ground",
+              "city": "Dindigul",
+              "timezone": "+05:30",
+              "latitude": "10.367312",
+              "longitude": "77.980291"
+            },
+            "currBatTeamId": 861,
+            "seriesStartDt": "1749081600000",
+            "seriesEndDt": "1751932800000",
+            "isTimeAnnounced": true,
+            "stateTitle": "ITT Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 182,
+                "wickets": 5,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 113,
+                "wickets": 10,
+                "overs": 19.4
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 119258,
+            "seriesId": 9866,
+            "seriesName": "Tamil Nadu Premier League 2025",
+            "matchDesc": "Qualifier 1",
+            "matchFormat": "T20",
+            "startDate": "1751377500000",
+            "endDate": "1751390100000",
+            "state": "Complete",
+            "status": "IDream Tiruppur Tamizhans won by 79 runs",
+            "team1": {
+              "teamId": 861,
+              "teamName": "IDream Tiruppur Tamizhans",
+              "teamSName": "ITT",
+              "imageId": 206916
+            },
+            "team2": {
+              "teamId": 367,
+              "teamName": "Chepauk Super Gillies",
+              "teamSName": "CSG",
+              "imageId": 172420
+            },
+            "venueInfo": {
+              "id": 405,
+              "ground": "NPR College Ground",
+              "city": "Dindigul",
+              "timezone": "+05:30",
+              "latitude": "10.367312",
+              "longitude": "77.980291"
+            },
+            "currBatTeamId": 861,
+            "seriesStartDt": "1749081600000",
+            "seriesEndDt": "1751932800000",
+            "isTimeAnnounced": true,
+            "stateTitle": "ITT Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 202,
+                "wickets": 5,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 123,
+                "wickets": 10,
+                "overs": 16.1
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 119249,
+            "seriesId": 9866,
+            "seriesName": "Tamil Nadu Premier League 2025",
+            "matchDesc": "28th Match",
+            "matchFormat": "T20",
+            "startDate": "1751204700000",
+            "endDate": "1751217300000",
+            "state": "Complete",
+            "status": "Trichy Grand Cholas won by 4 wkts",
+            "team1": {
+              "teamId": 371,
+              "teamName": "Dindigul Dragons",
+              "teamSName": "DGD",
+              "imageId": 172424
+            },
+            "team2": {
+              "teamId": 410,
+              "teamName": "Trichy Grand Cholas",
+              "teamSName": "Trichy",
+              "imageId": 172460
+            },
+            "venueInfo": {
+              "id": 405,
+              "ground": "NPR College Ground",
+              "city": "Dindigul",
+              "timezone": "+05:30",
+              "latitude": "10.367312",
+              "longitude": "77.980291"
+            },
+            "currBatTeamId": 410,
+            "seriesStartDt": "1749081600000",
+            "seriesEndDt": "1751932800000",
+            "isTimeAnnounced": true,
+            "stateTitle": "TRICHY Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 150,
+                "wickets": 6,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 151,
+                "wickets": 6,
+                "overs": 19.3
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 119276,
+            "seriesId": 9866,
+            "seriesName": "Tamil Nadu Premier League 2025",
+            "matchDesc": "Qualifier 2",
+            "matchFormat": "T20",
+            "startDate": "1751636700000",
+            "endDate": "1751649300000",
+            "state": "Complete",
+            "status": "Dindigul Dragons won by 4 wkts",
+            "team1": {
+              "teamId": 367,
+              "teamName": "Chepauk Super Gillies",
+              "teamSName": "CSG",
+              "imageId": 172420
+            },
+            "team2": {
+              "teamId": 371,
+              "teamName": "Dindigul Dragons",
+              "teamSName": "DGD",
+              "imageId": 172424
+            },
+            "venueInfo": {
+              "id": 405,
+              "ground": "NPR College Ground",
+              "city": "Dindigul",
+              "timezone": "+05:30",
+              "latitude": "10.367312",
+              "longitude": "77.980291"
+            },
+            "currBatTeamId": 371,
+            "seriesStartDt": "1749081600000",
+            "seriesEndDt": "1751932800000",
+            "isTimeAnnounced": true,
+            "stateTitle": "DGD Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 178,
+                "wickets": 7,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 182,
+                "wickets": 6,
+                "overs": 18.4
+              }
+            }
+          }
+        }]
+      }
+    }]
+  }, {
+    "matchType": "Domestic",
+    "seriesMatches": [{
+      "seriesAdWrapper": {
+        "seriesId": 9890,
+        "seriesName": "India Under 19 tour of England, 2025",
+        "matches": [{
+          "matchInfo": {
+            "matchId": 119549,
+            "seriesId": 9890,
+            "seriesName": "India Under 19 tour of England, 2025",
+            "matchDesc": "4th Youth ODI",
+            "matchFormat": "ODI",
+            "startDate": "1751709600000",
+            "endDate": "1751738400000",
+            "state": "Complete",
+            "status": "India U19 won by 55 runs",
+            "team1": {
+              "teamId": 54,
+              "teamName": "India U19",
+              "teamSName": "INDU19",
+              "imageId": 172155
+            },
+            "team2": {
+              "teamId": 173,
+              "teamName": "England U19",
+              "teamSName": "ENGU19",
+              "imageId": 172241
+            },
+            "venueInfo": {
+              "id": 225,
+              "ground": "New Road",
+              "city": "Worcester",
+              "timezone": "+01:00",
+              "latitude": "52.189294",
+              "longitude": "-2.2268"
+            },
+            "currBatTeamId": 54,
+            "seriesStartDt": "1750982400000",
+            "seriesEndDt": "1753401600000",
+            "isTimeAnnounced": true,
+            "stateTitle": "INDU19 Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 363,
+                "wickets": 9,
+                "overs": 49.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 308,
+                "wickets": 10,
+                "overs": 45.3
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 119546,
+            "seriesId": 9890,
+            "seriesName": "India Under 19 tour of England, 2025",
+            "matchDesc": "3rd Youth ODI",
+            "matchFormat": "ODI",
+            "startDate": "1751450400000",
+            "endDate": "1751479200000",
+            "state": "Complete",
+            "status": "India U19 won by 4 wkts (Match reduced to 40 overs due to rain)",
+            "team1": {
+              "teamId": 173,
+              "teamName": "England U19",
+              "teamSName": "ENGU19",
+              "imageId": 172241
+            },
+            "team2": {
+              "teamId": 54,
+              "teamName": "India U19",
+              "teamSName": "INDU19",
+              "imageId": 172155
+            },
+            "venueInfo": {
+              "id": 119,
+              "ground": "County Ground",
+              "city": "Northampton",
+              "timezone": "+01:00",
+              "latitude": "52.248160",
+              "longitude": "-0.871060"
+            },
+            "currBatTeamId": 54,
+            "seriesStartDt": "1750982400000",
+            "seriesEndDt": "1753401600000",
+            "isTimeAnnounced": true,
+            "stateTitle": "INDU19 Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 268,
+                "wickets": 6,
+                "overs": 39.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 274,
+                "wickets": 6,
+                "overs": 34.3
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 119540,
+            "seriesId": 9890,
+            "seriesName": "India Under 19 tour of England, 2025",
+            "matchDesc": "2nd Youth ODI",
+            "matchFormat": "ODI",
+            "startDate": "1751277600000",
+            "endDate": "1751306400000",
+            "state": "Complete",
+            "status": "England U19 won by 1 wkt",
+            "team1": {
+              "teamId": 54,
+              "teamName": "India U19",
+              "teamSName": "INDU19",
+              "imageId": 172155
+            },
+            "team2": {
+              "teamId": 173,
+              "teamName": "England U19",
+              "teamSName": "ENGU19",
+              "imageId": 172241
+            },
+            "venueInfo": {
+              "id": 119,
+              "ground": "County Ground",
+              "city": "Northampton",
+              "timezone": "+01:00",
+              "latitude": "52.248160",
+              "longitude": "-0.871060"
+            },
+            "currBatTeamId": 173,
+            "seriesStartDt": "1750982400000",
+            "seriesEndDt": "1753401600000",
+            "isTimeAnnounced": true,
+            "stateTitle": "ENGU19 Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 290,
+                "wickets": 10,
+                "overs": 48.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 291,
+                "wickets": 9,
+                "overs": 49.3
+              }
+            }
+          }
+        }]
+      }
+    }, {
+      "seriesAdWrapper": {
+        "seriesId": 9360,
+        "seriesName": "County Championship Division One 2025",
+        "matches": [{
+          "matchInfo": {
+            "matchId": 113094,
+            "seriesId": 9360,
+            "seriesName": "County Championship Division One 2025",
+            "matchDesc": "41st Match",
+            "matchFormat": "TEST",
+            "startDate": "1751191200000",
+            "endDate": "1751475600000",
+            "state": "Complete",
+            "status": "Yorkshire won by 10 wkts",
+            "team1": {
+              "teamId": 152,
+              "teamName": "Essex",
+              "teamSName": "ESS",
+              "imageId": 172219
+            },
+            "team2": {
+              "teamId": 146,
+              "teamName": "Yorkshire",
+              "teamSName": "YORKS",
+              "imageId": 172213
+            },
+            "venueInfo": {
+              "id": 557,
+              "ground": "York Cricket Club",
+              "city": "York",
+              "timezone": "+01:00",
+              "latitude": "53.957741",
+              "longitude": "-1.082260"
+            },
+            "currBatTeamId": 146,
+            "seriesStartDt": "1743724800000",
+            "seriesEndDt": "1759104000000",
+            "isTimeAnnounced": true,
+            "stateTitle": "YORKS Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 368,
+                "wickets": 10,
+                "overs": 135.6
+              },
+              "inngs2": {
+                "inningsId": 3,
+                "runs": 131,
+                "wickets": 10,
+                "overs": 59.1
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 459,
+                "wickets": 10,
+                "overs": 131.2
+              },
+              "inngs2": {
+                "inningsId": 4,
+                "runs": 41,
+                "overs": 8.6
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 113103,
+            "seriesId": 9360,
+            "seriesName": "County Championship Division One 2025",
+            "matchDesc": "42nd Match",
+            "matchFormat": "TEST",
+            "startDate": "1751191200000",
+            "endDate": "1751475600000",
+            "state": "Complete",
+            "status": "Match drawn",
+            "team1": {
+              "teamId": 148,
+              "teamName": "Surrey",
+              "teamSName": "SUR",
+              "imageId": 172215
+            },
+            "team2": {
+              "teamId": 141,
+              "teamName": "Durham",
+              "teamSName": "DUR",
+              "imageId": 172208
+            },
+            "venueInfo": {
+              "id": 12,
+              "ground": "Kennington Oval",
+              "city": "London",
+              "timezone": "+01:00",
+              "latitude": "51.48368",
+              "longitude": "-0.114885"
+            },
+            "seriesStartDt": "1743724800000",
+            "seriesEndDt": "1759104000000",
+            "isTimeAnnounced": true,
+            "stateTitle": "Complete"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 820,
+                "wickets": 9,
+                "overs": 161.3
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 362,
+                "wickets": 10,
+                "overs": 131.1
+              },
+              "inngs2": {
+                "inningsId": 3,
+                "runs": 262,
+                "overs": 55.4
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 113127,
+            "seriesId": 9360,
+            "seriesName": "County Championship Division One 2025",
+            "matchDesc": "45th Match",
+            "matchFormat": "TEST",
+            "startDate": "1751191200000",
+            "endDate": "1751475600000",
+            "state": "Complete",
+            "status": "Match drawn",
+            "team1": {
+              "teamId": 140,
+              "teamName": "Warwickshire",
+              "teamSName": "WARKS",
+              "imageId": 172207
+            },
+            "team2": {
+              "teamId": 41,
+              "teamName": "Sussex",
+              "teamSName": "SUS",
+              "imageId": 172148
+            },
+            "venueInfo": {
+              "id": 292,
+              "ground": "County Ground",
+              "city": "Hove",
+              "timezone": "+01:00",
+              "latitude": "50.830995",
+              "longitude": "-0.163522"
+            },
+            "seriesStartDt": "1743724800000",
+            "seriesEndDt": "1759104000000",
+            "isTimeAnnounced": true,
+            "stateTitle": "Complete"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 415,
+                "wickets": 10,
+                "overs": 107.5
+              },
+              "inngs2": {
+                "inningsId": 3,
+                "runs": 260,
+                "wickets": 4,
+                "overs": 87.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 533,
+                "wickets": 10,
+                "overs": 151.4
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 113118,
+            "seriesId": 9360,
+            "seriesName": "County Championship Division One 2025",
+            "matchDesc": "44th Match",
+            "matchFormat": "TEST",
+            "startDate": "1751191200000",
+            "endDate": "1751475600000",
+            "state": "Complete",
+            "status": "Match drawn",
+            "team1": {
+              "teamId": 147,
+              "teamName": "Worcestershire",
+              "teamSName": "WORCS",
+              "imageId": 172214
+            },
+            "team2": {
+              "teamId": 153,
+              "teamName": "Hampshire",
+              "teamSName": "HAM",
+              "imageId": 172220
+            },
+            "venueInfo": {
+              "id": 21,
+              "ground": "The Rose Bowl",
+              "city": "Southampton",
+              "timezone": "+01:00",
+              "latitude": "50.924131",
+              "longitude": "-1.322163"
+            },
+            "seriesStartDt": "1743724800000",
+            "seriesEndDt": "1759104000000",
+            "isTimeAnnounced": true,
+            "stateTitle": "Complete"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 679,
+                "wickets": 7,
+                "overs": 159.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 221,
+                "wickets": 10,
+                "overs": 90.3
+              },
+              "inngs2": {
+                "inningsId": 3,
+                "runs": 294,
+                "wickets": 4,
+                "overs": 116.6
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 113109,
+            "seriesId": 9360,
+            "seriesName": "County Championship Division One 2025",
+            "matchDesc": "43rd Match",
+            "matchFormat": "TEST",
+            "startDate": "1751191200000",
+            "endDate": "1751475600000",
+            "state": "Complete",
+            "status": "Match drawn",
+            "team1": {
+              "teamId": 119,
+              "teamName": "Somerset",
+              "teamSName": "SOM",
+              "imageId": 172199
+            },
+            "team2": {
+              "teamId": 139,
+              "teamName": "Nottinghamshire",
+              "teamSName": "NOTTS",
+              "imageId": 172206
+            },
+            "venueInfo": {
+              "id": 223,
+              "ground": "The Cooper Associates County Ground",
+              "city": "Taunton",
+              "timezone": "+01:00",
+              "latitude": "51.018913",
+              "longitude": "3.100894"
+            },
+            "seriesStartDt": "1743724800000",
+            "seriesEndDt": "1759104000000",
+            "isTimeAnnounced": true,
+            "stateTitle": "Complete"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 379,
+                "wickets": 10,
+                "overs": 118.6
+              },
+              "inngs2": {
+                "inningsId": 3,
+                "runs": 238,
+                "wickets": 4,
+                "overs": 74.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 509,
+                "wickets": 10,
+                "overs": 163.2
+              }
+            }
+          }
+        }]
+      }
+    }, {
+      "seriesAdWrapper": {
+        "seriesId": 10003,
+        "seriesName": "Sri Lanka A tour of Australia, 2025",
+        "matches": [{
+          "matchInfo": {
+            "matchId": 120691,
+            "seriesId": 10003,
+            "seriesName": "Sri Lanka A tour of Australia, 2025",
+            "matchDesc": "2nd Unofficial ODI",
+            "matchFormat": "ODI",
+            "startDate": "1751761800000",
+            "endDate": "1751790600000",
+            "state": "Complete",
+            "status": "Sri Lanka A won by 51 runs",
+            "team1": {
+              "teamId": 43,
+              "teamName": "Sri Lanka A",
+              "teamSName": "SLA",
+              "imageId": 172150
+            },
+            "team2": {
+              "teamId": 79,
+              "teamName": "Australia A",
+              "teamSName": "AUSA",
+              "imageId": 172173
+            },
+            "venueInfo": {
+              "id": 129,
+              "ground": "Marrara Cricket Ground",
+              "city": "Darwin",
+              "timezone": "+09:30",
+              "latitude": "-12.399116",
+              "longitude": "130.887272"
+            },
+            "currBatTeamId": 43,
+            "seriesStartDt": "1751587200000",
+            "seriesEndDt": "1753401600000",
+            "isTimeAnnounced": true,
+            "stateTitle": "Complete"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 294,
+                "wickets": 7,
+                "overs": 49.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 243,
+                "wickets": 10,
+                "overs": 41.1
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 120680,
+            "seriesId": 10003,
+            "seriesName": "Sri Lanka A tour of Australia, 2025",
+            "matchDesc": "1st Unofficial ODI",
+            "matchFormat": "ODI",
+            "startDate": "1751589000000",
+            "endDate": "1751617800000",
+            "state": "Complete",
+            "status": "Australia A won by 198 runs",
+            "team1": {
+              "teamId": 79,
+              "teamName": "Australia A",
+              "teamSName": "AUSA",
+              "imageId": 172173
+            },
+            "team2": {
+              "teamId": 43,
+              "teamName": "Sri Lanka A",
+              "teamSName": "SLA",
+              "imageId": 172150
+            },
+            "venueInfo": {
+              "id": 129,
+              "ground": "Marrara Cricket Ground",
+              "city": "Darwin",
+              "timezone": "+09:30",
+              "latitude": "-12.399116",
+              "longitude": "130.887272"
+            },
+            "currBatTeamId": 79,
+            "seriesStartDt": "1751587200000",
+            "seriesEndDt": "1753401600000",
+            "isTimeAnnounced": true,
+            "stateTitle": "AUSA Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 332,
+                "wickets": 4,
+                "overs": 49.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 134,
+                "wickets": 10,
+                "overs": 35.4
+              }
+            }
+          }
+        }]
+      }
+    }, {
+      "seriesAdWrapper": {
+        "seriesId": 9369,
+        "seriesName": "County Championship Division Two 2025",
+        "matches": [{
+          "matchInfo": {
+            "matchId": 113532,
+            "seriesId": 9369,
+            "seriesName": "County Championship Division Two 2025",
+            "matchDesc": "36th Match",
+            "matchFormat": "TEST",
+            "startDate": "1751191200000",
+            "endDate": "1751475600000",
+            "state": "Complete",
+            "status": "Match drawn",
+            "team1": {
+              "teamId": 151,
+              "teamName": "Gloucestershire",
+              "teamSName": "GLOUCS",
+              "imageId": 172218
+            },
+            "team2": {
+              "teamId": 149,
+              "teamName": "Glamorgan",
+              "teamSName": "GLAM",
+              "imageId": 172216
+            },
+            "venueInfo": {
+              "id": 62,
+              "ground": "Sophia Gardens",
+              "city": "Cardiff",
+              "timezone": "+01:00",
+              "latitude": "51.484257",
+              "longitude": "-3.189187"
+            },
+            "seriesStartDt": "1743724800000",
+            "seriesEndDt": "1759104000000",
+            "isTimeAnnounced": true,
+            "stateTitle": "Complete"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 380,
+                "wickets": 10,
+                "overs": 120.1
+              },
+              "inngs2": {
+                "inningsId": 3,
+                "runs": 255,
+                "wickets": 7,
+                "overs": 94.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 528,
+                "wickets": 10,
+                "overs": 151.1
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 113514,
+            "seriesId": 9369,
+            "seriesName": "County Championship Division Two 2025",
+            "matchDesc": "33rd Match",
+            "matchFormat": "TEST",
+            "startDate": "1751191200000",
+            "endDate": "1751475600000",
+            "state": "Complete",
+            "status": "Middlesex won by an innings and 127 runs",
+            "team1": {
+              "teamId": 74,
+              "teamName": "Middlesex",
+              "teamSName": "MDX",
+              "imageId": 172170
+            },
+            "team2": {
+              "teamId": 145,
+              "teamName": "Leicestershire",
+              "teamSName": "LEIC",
+              "imageId": 172212
+            },
+            "venueInfo": {
+              "id": 222,
+              "ground": "Grace Road",
+              "city": "Leicester",
+              "timezone": "+01:00",
+              "latitude": "52.607861",
+              "longitude": "-1.142709"
+            },
+            "currBatTeamId": 74,
+            "seriesStartDt": "1743724800000",
+            "seriesEndDt": "1759104000000",
+            "isTimeAnnounced": true,
+            "stateTitle": "MDX Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 534,
+                "wickets": 10,
+                "overs": 154.3
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 205,
+                "wickets": 10,
+                "overs": 73.6
+              },
+              "inngs2": {
+                "inningsId": 3,
+                "runs": 202,
+                "wickets": 10,
+                "overs": 53.2
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 113517,
+            "seriesId": 9369,
+            "seriesName": "County Championship Division Two 2025",
+            "matchDesc": "34th Match",
+            "matchFormat": "TEST",
+            "startDate": "1751191200000",
+            "endDate": "1751475600000",
+            "state": "Complete",
+            "status": "Match drawn",
+            "team1": {
+              "teamId": 150,
+              "teamName": "Kent",
+              "teamSName": "KENT",
+              "imageId": 172217
+            },
+            "team2": {
+              "teamId": 142,
+              "teamName": "Northamptonshire",
+              "teamSName": "NHNTS",
+              "imageId": 172209
+            },
+            "venueInfo": {
+              "id": 67,
+              "ground": "St Lawrence Ground",
+              "city": "Canterbury",
+              "timezone": "+01:00",
+              "latitude": "51.267447",
+              "longitude": "1.091621"
+            },
+            "seriesStartDt": "1743724800000",
+            "seriesEndDt": "1759104000000",
+            "isTimeAnnounced": true,
+            "stateTitle": "Complete"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 566,
+                "wickets": 8,
+                "overs": 155.5
+              },
+              "inngs2": {
+                "inningsId": 3,
+                "runs": 160,
+                "wickets": 8,
+                "overs": 60.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 722,
+                "wickets": 6,
+                "overs": 145.6
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 113523,
+            "seriesId": 9369,
+            "seriesName": "County Championship Division Two 2025",
+            "matchDesc": "35th Match",
+            "matchFormat": "TEST",
+            "startDate": "1751191200000",
+            "endDate": "1751475600000",
+            "state": "Complete",
+            "status": "Lancashire won by 261 runs",
+            "team1": {
+              "teamId": 143,
+              "teamName": "Lancashire",
+              "teamSName": "LANCS",
+              "imageId": 172210
+            },
+            "team2": {
+              "teamId": 144,
+              "teamName": "Derbyshire",
+              "teamSName": "DERBY",
+              "imageId": 172211
+            },
+            "venueInfo": {
+              "id": 350,
+              "ground": "Queen\u0027s Park",
+              "city": "Chesterfield",
+              "timezone": "+01:00",
+              "latitude": "53.232642",
+              "longitude": "-1.432959"
+            },
+            "currBatTeamId": 143,
+            "seriesStartDt": "1743724800000",
+            "seriesEndDt": "1759104000000",
+            "isTimeAnnounced": true,
+            "stateTitle": "LANCS Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 367,
+                "wickets": 10,
+                "overs": 93.2
+              },
+              "inngs2": {
+                "inningsId": 3,
+                "runs": 406,
+                "wickets": 6,
+                "overs": 73.5
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 261,
+                "wickets": 10,
+                "overs": 66.6
+              },
+              "inngs2": {
+                "inningsId": 4,
+                "runs": 251,
+                "wickets": 10,
+                "overs": 83.4
+              }
+            }
+          }
+        }]
+      }
+    }]
+  }, {
+    "matchType": "Women",
+    "seriesMatches": [{
+      "seriesAdWrapper": {
+        "seriesId": 8812,
+        "seriesName": "India Women tour of England, 2025",
+        "matches": [{
+          "matchInfo": {
+            "matchId": 105900,
+            "seriesId": 8812,
+            "seriesName": "India Women tour of England, 2025",
+            "matchDesc": "2nd T20I",
+            "matchFormat": "T20",
+            "startDate": "1751391000000",
+            "endDate": "1751403600000",
+            "state": "Complete",
+            "status": "India Women won by 24 runs",
+            "team1": {
+              "teamId": 97,
+              "teamName": "India Women",
+              "teamSName": "INDW",
+              "imageId": 172189
+            },
+            "team2": {
+              "teamId": 99,
+              "teamName": "England Women",
+              "teamSName": "ENGW",
+              "imageId": 172191
+            },
+            "venueInfo": {
+              "id": 63,
+              "ground": "County Ground",
+              "city": "Bristol",
+              "timezone": "+01:00",
+              "latitude": "51.477246",
+              "longitude": "-2.584212"
+            },
+            "currBatTeamId": 97,
+            "seriesStartDt": "1751068800000",
+            "seriesEndDt": "1753315200000",
+            "isTimeAnnounced": true,
+            "stateTitle": "INDW Won",
+            "isFantasyEnabled": true
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 181,
+                "wickets": 4,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 157,
+                "wickets": 7,
+                "overs": 19.6
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 105908,
+            "seriesId": 8812,
+            "seriesName": "India Women tour of England, 2025",
+            "matchDesc": "3rd T20I",
+            "matchFormat": "T20",
+            "startDate": "1751650500000",
+            "endDate": "1751663100000",
+            "state": "Complete",
+            "status": "England Women won by 5 runs",
+            "team1": {
+              "teamId": 99,
+              "teamName": "England Women",
+              "teamSName": "ENGW",
+              "imageId": 172191
+            },
+            "team2": {
+              "teamId": 97,
+              "teamName": "India Women",
+              "teamSName": "INDW",
+              "imageId": 172189
+            },
+            "venueInfo": {
+              "id": 12,
+              "ground": "Kennington Oval",
+              "city": "London",
+              "timezone": "+01:00",
+              "latitude": "51.48368",
+              "longitude": "-0.114885"
+            },
+            "currBatTeamId": 99,
+            "seriesStartDt": "1751068800000",
+            "seriesEndDt": "1753315200000",
+            "isTimeAnnounced": true,
+            "stateTitle": "ENGW Won",
+            "isFantasyEnabled": true
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 171,
+                "wickets": 9,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 166,
+                "wickets": 5,
+                "overs": 19.6
+              }
+            }
+          }
+        }]
+      }
+    }, {
+      "seriesAdWrapper": {
+        "seriesId": 10135,
+        "seriesName": "Indonesia Women tour of Singapore, 2025",
+        "matches": [{
+          "matchInfo": {
+            "matchId": 122071,
+            "seriesId": 10135,
+            "seriesName": "Indonesia Women tour of Singapore, 2025",
+            "matchDesc": "3rd T20I",
+            "matchFormat": "T20",
+            "startDate": "1751679000000",
+            "endDate": "1751691600000",
+            "state": "Complete",
+            "status": "Indonesia Women won by 18 runs  (DLS method)",
+            "team1": {
+              "teamId": 484,
+              "teamName": "Indonesia Women",
+              "teamSName": "IDNW",
+              "imageId": 172532
+            },
+            "team2": {
+              "teamId": 509,
+              "teamName": "Singapore Women",
+              "teamSName": "SINW",
+              "imageId": 591999
+            },
+            "venueInfo": {
+              "id": 1437915,
+              "ground": "Singapore National Cricket Ground",
+              "city": "Singapore",
+              "timezone": "+08:00",
+              "latitude": "1.3040184",
+              "longitude": "103.8699663"
+            },
+            "currBatTeamId": 484,
+            "seriesStartDt": "1751414400000",
+            "seriesEndDt": "1751846400000",
+            "isTimeAnnounced": true,
+            "stateTitle": "IDNW Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 70,
+                "wickets": 4,
+                "overs": 9.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 25,
+                "wickets": 4,
+                "overs": 4.6
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 122060,
+            "seriesId": 10135,
+            "seriesName": "Indonesia Women tour of Singapore, 2025",
+            "matchDesc": "2nd T20I",
+            "matchFormat": "T20",
+            "startDate": "1751506200000",
+            "endDate": "1751518800000",
+            "state": "Complete",
+            "status": "Indonesia Women won by 9 wkts",
+            "team1": {
+              "teamId": 509,
+              "teamName": "Singapore Women",
+              "teamSName": "SINW",
+              "imageId": 591999
+            },
+            "team2": {
+              "teamId": 484,
+              "teamName": "Indonesia Women",
+              "teamSName": "IDNW",
+              "imageId": 172532
+            },
+            "venueInfo": {
+              "id": 1437915,
+              "ground": "Singapore National Cricket Ground",
+              "city": "Singapore",
+              "timezone": "+08:00",
+              "latitude": "1.3040184",
+              "longitude": "103.8699663"
+            },
+            "currBatTeamId": 484,
+            "seriesStartDt": "1751414400000",
+            "seriesEndDt": "1751846400000",
+            "isTimeAnnounced": true,
+            "stateTitle": "IDNW Won"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 48,
+                "wickets": 8,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 49,
+                "wickets": 1,
+                "overs": 6.1
+              }
+            }
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 122049,
+            "seriesId": 10135,
+            "seriesName": "Indonesia Women tour of Singapore, 2025",
+            "matchDesc": "1st T20I",
+            "matchFormat": "T20",
+            "startDate": "1751419800000",
+            "endDate": "1751432400000",
+            "state": "Complete",
+            "status": "No result",
+            "team1": {
+              "teamId": 509,
+              "teamName": "Singapore Women",
+              "teamSName": "SINW",
+              "imageId": 591999
+            },
+            "team2": {
+              "teamId": 484,
+              "teamName": "Indonesia Women",
+              "teamSName": "IDNW",
+              "imageId": 172532
+            },
+            "venueInfo": {
+              "id": 1437915,
+              "ground": "Singapore National Cricket Ground",
+              "city": "Singapore",
+              "timezone": "+08:00",
+              "latitude": "1.3040184",
+              "longitude": "103.8699663"
+            },
+            "seriesStartDt": "1751414400000",
+            "seriesEndDt": "1751846400000",
+            "isTimeAnnounced": true,
+            "stateTitle": "Complete"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 31,
+                "wickets": 4,
+                "overs": 9.6
+              }
+            }
+          }
+        }]
+      }
+    }]
+  }],
+  "filters": {
+    "matchType": ["International", "League", "Domestic", "Women"]
+  },
+  "appIndex": {
+    "seoTitle": "Live Cricket Score - Scorecard and Match Results",
+    "webURL": "www.cricbuzz.com/live-cricket-scores/"
+  },
+  "responseLastUpdated": "1751807041"
+}

@@ -1,0 +1,573 @@
+{
+  "typeMatches": [{
+    "matchType": "International",
+    "seriesMatches": [{
+      "seriesAdWrapper": {
+        "seriesId": 8786,
+        "seriesName": "India tour of England, 2025",
+        "matches": [{
+          "matchInfo": {
+            "matchId": 105770,
+            "seriesId": 8786,
+            "seriesName": "India tour of England, 2025",
+            "matchDesc": "2nd Test",
+            "matchFormat": "TEST",
+            "startDate": "1751450400000",
+            "endDate": "1751821200000",
+            "state": "In Progress",
+            "status": "Day 5: 1st Session - England need 479 runs",
+            "team1": {
+              "teamId": 2,
+              "teamName": "India",
+              "teamSName": "IND",
+              "imageId": 719031
+            },
+            "team2": {
+              "teamId": 9,
+              "teamName": "England",
+              "teamSName": "ENG",
+              "imageId": 172123
+            },
+            "venueInfo": {
+              "id": 20,
+              "ground": "Edgbaston",
+              "city": "Birmingham",
+              "timezone": "+01:00",
+              "latitude": "52.455774",
+              "longitude": "-1.902624"
+            },
+            "currBatTeamId": 9,
+            "seriesStartDt": "1750377600000",
+            "seriesEndDt": "1754438400000",
+            "isTimeAnnounced": true,
+            "stateTitle": "In Progress"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 587,
+                "wickets": 10,
+                "overs": 150.6
+              },
+              "inngs2": {
+                "inningsId": 3,
+                "runs": 427,
+                "wickets": 6,
+                "overs": 82.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 407,
+                "wickets": 10,
+                "overs": 89.3
+              },
+              "inngs2": {
+                "inningsId": 4,
+                "runs": 129,
+                "wickets": 5,
+                "overs": 34.3
+              }
+            }
+          }
+        }]
+      }
+    }, {
+      "seriesAdWrapper": {
+        "seriesId": 9408,
+        "seriesName": "Australia tour of West Indies, 2025",
+        "matches": [{
+          "matchInfo": {
+            "matchId": 114591,
+            "seriesId": 9408,
+            "seriesName": "Australia tour of West Indies, 2025",
+            "matchDesc": "2nd Test",
+            "matchFormat": "TEST",
+            "startDate": "1751551200000",
+            "endDate": "1751922000000",
+            "state": "Stumps",
+            "status": "Day 3: Stumps - Australia lead by 254 runs",
+            "team1": {
+              "teamId": 4,
+              "teamName": "Australia",
+              "teamSName": "AUS",
+              "imageId": 172117
+            },
+            "team2": {
+              "teamId": 10,
+              "teamName": "West Indies",
+              "teamSName": "WI",
+              "imageId": 172124
+            },
+            "venueInfo": {
+              "id": 101,
+              "ground": "National Cricket Stadium",
+              "city": "St Georges, Grenada",
+              "timezone": "-04:00",
+              "latitude": "12.059044",
+              "longitude": "-61.752212"
+            },
+            "currBatTeamId": 4,
+            "seriesStartDt": "1750809600000",
+            "seriesEndDt": "1753833600000",
+            "isTimeAnnounced": true,
+            "stateTitle": "Stumps"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 286,
+                "wickets": 10,
+                "overs": 66.5
+              },
+              "inngs2": {
+                "inningsId": 3,
+                "runs": 221,
+                "wickets": 7,
+                "overs": 64.3
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 253,
+                "wickets": 10,
+                "overs": 73.2
+              }
+            }
+          }
+        }]
+      }
+    }, {
+      "seriesAdWrapper": {
+        "seriesId": 9578,
+        "seriesName": "South Africa tour of Zimbabwe, 2025",
+        "matches": [{
+          "matchInfo": {
+            "matchId": 116840,
+            "seriesId": 9578,
+            "seriesName": "South Africa tour of Zimbabwe, 2025",
+            "matchDesc": "2nd Test",
+            "matchFormat": "TEST",
+            "startDate": "1751788800000",
+            "endDate": "1752159600000",
+            "state": "In Progress",
+            "status": "Day 1: 3rd Session",
+            "team1": {
+              "teamId": 11,
+              "teamName": "South Africa",
+              "teamSName": "RSA",
+              "imageId": 172126
+            },
+            "team2": {
+              "teamId": 12,
+              "teamName": "Zimbabwe",
+              "teamSName": "ZIM",
+              "imageId": 172127
+            },
+            "venueInfo": {
+              "id": 70,
+              "ground": "Queens Sports Club",
+              "city": "Bulawayo",
+              "timezone": "+02:00",
+              "latitude": "-20.145151",
+              "longitude": "28.588901"
+            },
+            "currBatTeamId": 11,
+            "seriesStartDt": "1751068800000",
+            "seriesEndDt": "1752278400000",
+            "isTimeAnnounced": true,
+            "stateTitle": "In Progress"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 256,
+                "wickets": 3,
+                "overs": 57.5
+              }
+            }
+          }
+        }]
+      }
+    }, {
+      "seriesAdWrapper": {
+        "seriesId": 10278,
+        "seriesName": "Quadrangular T20I Series in Malawi 2025",
+        "matches": [{
+          "matchInfo": {
+            "matchId": 123001,
+            "seriesId": 10278,
+            "seriesName": "Quadrangular T20I Series in Malawi 2025",
+            "matchDesc": "3rd Match",
+            "matchFormat": "T20",
+            "startDate": "1751787000000",
+            "endDate": "1751799600000",
+            "state": "Complete",
+            "status": "Match starts at Jul 06, 07:30 GMT",
+            "team1": {
+              "teamId": 543,
+              "teamName": "Bahrain",
+              "teamSName": "BHR",
+              "imageId": 172594
+            },
+            "team2": {
+              "teamId": 77,
+              "teamName": "Germany",
+              "teamSName": "GER",
+              "imageId": 172171
+            },
+            "venueInfo": {
+              "id": 1437905,
+              "ground": "TCA Oval",
+              "city": "Blantyre",
+              "timezone": "+02:00",
+              "latitude": "-15.810813",
+              "longitude": "34.9982381"
+            },
+            "seriesStartDt": "1751673600000",
+            "seriesEndDt": "1752537600000",
+            "stateTitle": "Upcoming Match"
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 122995,
+            "seriesId": 10278,
+            "seriesName": "Quadrangular T20I Series in Malawi 2025",
+            "matchDesc": "2nd Match",
+            "matchFormat": "T20",
+            "startDate": "1751802300000",
+            "endDate": "1751814900000",
+            "state": "Complete",
+            "status": "Tanzania won by 72 runs",
+            "team1": {
+              "teamId": 535,
+              "teamName": "Tanzania",
+              "teamSName": "TAN",
+              "imageId": 172586
+            },
+            "team2": {
+              "teamId": 553,
+              "teamName": "Malawi",
+              "teamSName": "MWI",
+              "imageId": 172605
+            },
+            "venueInfo": {
+              "id": 1437905,
+              "ground": "TCA Oval",
+              "city": "Blantyre",
+              "timezone": "+02:00",
+              "latitude": "-15.810813",
+              "longitude": "34.9982381"
+            },
+            "currBatTeamId": 535,
+            "seriesStartDt": "1751673600000",
+            "seriesEndDt": "1752537600000",
+            "stateTitle": "Complete"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 192,
+                "wickets": 4,
+                "overs": 19.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 120,
+                "wickets": 7,
+                "overs": 19.6
+              }
+            }
+          }
+        }]
+      }
+    }, {
+      "seriesAdWrapper": {
+        "seriesId": 10108,
+        "seriesName": "ICC Mens T20 World Cup Europe Qualifier 2025",
+        "matches": [{
+          "matchInfo": {
+            "matchId": 121703,
+            "seriesId": 10108,
+            "seriesName": "ICC Mens T20 World Cup Europe Qualifier 2025",
+            "matchDesc": "3rd Match",
+            "matchFormat": "T20",
+            "startDate": "1751792400000",
+            "endDate": "1751805000000",
+            "state": "Complete",
+            "status": "Match abandoned without a ball bowled (No toss)",
+            "team1": {
+              "teamId": 533,
+              "teamName": "Guernsey",
+              "teamSName": "GGY",
+              "imageId": 172584
+            },
+            "team2": {
+              "teamId": 23,
+              "teamName": "Scotland",
+              "teamSName": "SCO",
+              "imageId": 172137
+            },
+            "venueInfo": {
+              "id": 285,
+              "ground": "Sportpark Westvliet",
+              "city": "The Hague",
+              "timezone": "+02:00",
+              "latitude": "52.068650",
+              "longitude": "4.374474"
+            },
+            "seriesStartDt": "1751673600000",
+            "seriesEndDt": "1752364800000",
+            "isTimeAnnounced": true,
+            "stateTitle": "Abandon"
+          }
+        }]
+      }
+    }, {
+      "ad": {
+        "name": "native_matches",
+        "layout": "native_large",
+        "position": 5
+      }
+    }]
+  }, {
+    "matchType": "League",
+    "seriesMatches": [{
+      "seriesAdWrapper": {
+        "seriesId": 9257,
+        "seriesName": "T20 Blast 2025",
+        "matches": [{
+          "matchInfo": {
+            "matchId": 110813,
+            "seriesId": 9257,
+            "seriesName": "T20 Blast 2025",
+            "matchDesc": "South Group",
+            "matchFormat": "T20",
+            "startDate": "1751808600000",
+            "endDate": "1751821200000",
+            "state": "Delay",
+            "status": "Toss delayed due to rain",
+            "team1": {
+              "teamId": 149,
+              "teamName": "Glamorgan",
+              "teamSName": "GLAM",
+              "imageId": 172216
+            },
+            "team2": {
+              "teamId": 150,
+              "teamName": "Kent",
+              "teamSName": "KENT",
+              "imageId": 172217
+            },
+            "venueInfo": {
+              "id": 62,
+              "ground": "Sophia Gardens",
+              "city": "Cardiff",
+              "timezone": "+01:00",
+              "latitude": "51.484257",
+              "longitude": "-3.189187"
+            },
+            "seriesStartDt": "1748476800000",
+            "seriesEndDt": "1757894400000",
+            "isTimeAnnounced": true,
+            "stateTitle": "Delay"
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 110801,
+            "seriesId": 9257,
+            "seriesName": "T20 Blast 2025",
+            "matchDesc": "North Group",
+            "matchFormat": "T20",
+            "startDate": "1751808600000",
+            "endDate": "1751821200000",
+            "state": "Toss",
+            "status": "Yorkshire opt to bowl",
+            "team1": {
+              "teamId": 144,
+              "teamName": "Derbyshire",
+              "teamSName": "DERBY",
+              "imageId": 172211
+            },
+            "team2": {
+              "teamId": 146,
+              "teamName": "Yorkshire",
+              "teamSName": "YORKS",
+              "imageId": 172213
+            },
+            "venueInfo": {
+              "id": 350,
+              "ground": "Queen\u0027s Park",
+              "city": "Chesterfield",
+              "timezone": "+01:00",
+              "latitude": "53.232642",
+              "longitude": "-1.432959"
+            },
+            "seriesStartDt": "1748476800000",
+            "seriesEndDt": "1757894400000",
+            "isTimeAnnounced": true,
+            "stateTitle": "Toss"
+          }
+        }, {
+          "matchInfo": {
+            "matchId": 110805,
+            "seriesId": 9257,
+            "seriesName": "T20 Blast 2025",
+            "matchDesc": "North Group",
+            "matchFormat": "T20",
+            "startDate": "1751808600000",
+            "endDate": "1751821200000",
+            "state": "Toss",
+            "status": "Warwickshire opt to bowl",
+            "team1": {
+              "teamId": 141,
+              "teamName": "Durham",
+              "teamSName": "DUR",
+              "imageId": 172208
+            },
+            "team2": {
+              "teamId": 140,
+              "teamName": "Warwickshire",
+              "teamSName": "WARKS",
+              "imageId": 172207
+            },
+            "venueInfo": {
+              "id": 60,
+              "ground": "Riverside Ground",
+              "city": "Chester-le-Street",
+              "timezone": "+01:00",
+              "latitude": "54.849531",
+              "longitude": "-1.56103"
+            },
+            "seriesStartDt": "1748476800000",
+            "seriesEndDt": "1757894400000",
+            "isTimeAnnounced": true,
+            "stateTitle": "Toss"
+          }
+        }]
+      }
+    }, {
+      "seriesAdWrapper": {
+        "seriesId": 10350,
+        "seriesName": "Pondicherry Premier League 2025",
+        "matches": [{
+          "matchInfo": {
+            "matchId": 123826,
+            "seriesId": 10350,
+            "seriesName": "Pondicherry Premier League 2025",
+            "matchDesc": "1st Match",
+            "matchFormat": "T20",
+            "startDate": "1751806800000",
+            "endDate": "1751819400000",
+            "state": "Complete",
+            "status": "Match starts at Jul 06, 12:00 GMT",
+            "team1": {
+              "teamId": 2569,
+              "teamName": "Ossudu Accord Warriors",
+              "teamSName": "OAW",
+              "imageId": 174284
+            },
+            "team2": {
+              "teamId": 2578,
+              "teamName": "Ruby White Town Legends",
+              "teamSName": "RWTL",
+              "imageId": 174284
+            },
+            "venueInfo": {
+              "id": 543,
+              "ground": "Cricket Association Puducherry Siechem Ground",
+              "city": "Puducherry",
+              "timezone": "+05:30",
+              "latitude": "11.912200",
+              "longitude": "79.737396"
+            },
+            "seriesStartDt": "1751760000000",
+            "seriesEndDt": "1753747200000",
+            "isTimeAnnounced": true,
+            "stateTitle": "Upcoming Match"
+          }
+        }]
+      }
+    }]
+  }, {
+    "matchType": "Domestic",
+    "seriesMatches": [{
+      "seriesAdWrapper": {
+        "seriesId": 10003,
+        "seriesName": "Sri Lanka A tour of Australia, 2025",
+        "matches": [{
+          "matchInfo": {
+            "matchId": 120691,
+            "seriesId": 10003,
+            "seriesName": "Sri Lanka A tour of Australia, 2025",
+            "matchDesc": "2nd Unofficial ODI",
+            "matchFormat": "ODI",
+            "startDate": "1751761800000",
+            "endDate": "1751790600000",
+            "state": "Complete",
+            "status": "Sri Lanka A won by 51 runs",
+            "team1": {
+              "teamId": 43,
+              "teamName": "Sri Lanka A",
+              "teamSName": "SLA",
+              "imageId": 172150
+            },
+            "team2": {
+              "teamId": 79,
+              "teamName": "Australia A",
+              "teamSName": "AUSA",
+              "imageId": 172173
+            },
+            "venueInfo": {
+              "id": 129,
+              "ground": "Marrara Cricket Ground",
+              "city": "Darwin",
+              "timezone": "+09:30",
+              "latitude": "-12.399116",
+              "longitude": "130.887272"
+            },
+            "currBatTeamId": 43,
+            "seriesStartDt": "1751587200000",
+            "seriesEndDt": "1753401600000",
+            "isTimeAnnounced": true,
+            "stateTitle": "Complete"
+          },
+          "matchScore": {
+            "team1Score": {
+              "inngs1": {
+                "inningsId": 1,
+                "runs": 294,
+                "wickets": 7,
+                "overs": 49.6
+              }
+            },
+            "team2Score": {
+              "inngs1": {
+                "inningsId": 2,
+                "runs": 243,
+                "wickets": 10,
+                "overs": 41.1
+              }
+            }
+          }
+        }]
+      }
+    }]
+  }],
+  "filters": {
+    "matchType": ["International", "League", "Domestic", "Women"]
+  },
+  "appIndex": {
+    "seoTitle": "Live Cricket Score - Scorecard and Match Results",
+    "webURL": "www.cricbuzz.com/live-cricket-scores/"
+  },
+  "responseLastUpdated": "1751807354"
+}
